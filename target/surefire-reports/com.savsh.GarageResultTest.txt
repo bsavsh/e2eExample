@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.savsh.GarageResultTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.042 s <<< FAILURE! - in com.savsh.GarageResultTest
+com.savsh.GarageResultTest  Time elapsed: 0.041 s  <<< ERROR!
+java.lang.NumberFormatException: null
+
